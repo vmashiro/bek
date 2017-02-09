@@ -10,7 +10,7 @@ namespace vmashiro_BEK.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Welcome to BangErKang door";
 
             return View();
         }
