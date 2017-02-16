@@ -10,11 +10,13 @@ namespace BEKEF.Context
         public BEKContext()
             : base("name=BEKContext")
         {
+
         }
 
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+
         }
     }
 }
